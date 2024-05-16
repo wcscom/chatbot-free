@@ -19,39 +19,41 @@
 ## **🔗 [다운로드 링크 (구글 드라이브)](https://drive.google.com/file/d/1INHVHvIG8iGYxd8AoqqfK5reGsAf9re6/view?usp=sharing)**
 
 ---
-
+## ⭐⭐업데이트 예정⭐⭐
+### 브압 입장, 열혈 입장, 회장 입장 자동 응답
+---
 ## ⭐⭐사용법⭐⭐
-## 1. 프로그램 설치 후 로그인 정보를 입력합니다.
+### 1. 프로그램 설치 후 로그인 정보를 입력합니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/b8f4c1f8-e529-42e6-a156-e29821b1ef6b)
 
-## 2. 기본 명령어를 확인합니다.
+### 2. 기본 명령어를 확인합니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/cd557103-8415-45a4-9b93-aee3947718d9)
 
-## 3. 특정 시간 주기로 채팅을 보냅니다.
+### 3. 특정 시간 주기로 채팅을 보냅니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/aec80000-c71c-4aa1-84df-322733f685db)
 
-## 4. 기본적인 하트, 추천 응답 설정이 가능합니다.
+### 4. 기본적인 하트, 추천 응답 설정이 가능합니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/f1043b4b-1e29-46f1-865c-909118bc094c)
 
-## 5. 두산과 연속 콤보 또한 설정 가능합니다.
+### 5. 두산과 연속 콤보 또한 설정 가능합니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/818b86fb-6510-4d4c-99b4-856becf01cc6)
 
-## 6. 명령어 추가 및 설정이 가능합니다.
+### 6. 명령어 추가 및 설정이 가능합니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/50254527-bff0-4186-949c-36dbeadf2778)
 
-## 7. 저장 버튼은 실시간으로 반응하지만, 특정 시간 주기 채팅은 불가능합니다. (타이머관련)
+### 7. 저장 버튼은 실시간으로 반응하지만, 특정 시간 주기 채팅은 불가능합니다. (타이머관련)
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/b4114cba-df10-49c6-8c32-2544fbf8d1e8)
 
-## 8. 신청곡에 대한 내역 저장입니다.
+### 8. 신청곡에 대한 내역 저장입니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/a161562f-a8e6-4c17-8b49-5333df2de284)
 
-## 9. 하트 내역입니다. 다운로드 클릭시 바탕화면에 메모장으로 저장됩니다.
+### 9. 하트 내역입니다. 다운로드 클릭시 바탕화면에 메모장으로 저장됩니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/e0eac2f6-aaad-4cbb-bccc-527d123c68c7)
 
-## 10. 채팅 내역입니다. 다운로드 클릭시 바탕화면에 메모장으로 저장됩니다.
+### 10. 채팅 내역입니다. 다운로드 클릭시 바탕화면에 메모장으로 저장됩니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/a3e01c25-a633-45ce-8aba-cbf266afd914)
 
-## 11. 채팅봇 메뉴의 텍스트 입력란은 모두 크기 조절이 가능합니다.
+### 11. 채팅봇 메뉴의 텍스트 입력란은 모두 크기 조절이 가능합니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/66002c69-4c0b-4abd-9def-d7f3ef206fd7)
 
 
