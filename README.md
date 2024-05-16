@@ -2,7 +2,10 @@
 
 ### beta version : 1.0.0
 ### OS : Windows (64bit)
-**description**: PandaTV를 위한 무료 AI 매크로 
+### description : PandaTV를 위한 무료 AI 매크로 
+### need memory : 500mb ~ 1.5gb
+### size : 150mb 
+
 
 
 **🚨 기본적인 기능은 있으나😊, 예외처리는 조금 부족합니다!~**
