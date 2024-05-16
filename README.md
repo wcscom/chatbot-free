@@ -1,26 +1,26 @@
-#  ⭐ 숙애의 채팅봇 ⭐
+#  팬더티비 ai 펜더 티비 매크로 숙애의 채팅봇
 
-### version : 1.0.0 beta
-### OS : Windows7, 10, 11 (x64)
-### description : for PandaTV bj && manager
+#### version : 1.0.0 beta
+#### OS : Windows7, 10, 11 (x64)
+#### description : for PandaTV bj && manager
 
 
-## ❤️ 필독 - 라이센스를 구매하질않아서.. 
-## ⭐ 윈도우 보안 (실행안함) 창 뜰 수 있습니다! 이럴경우! 
+### ❤️ 필독 - 라이센스를 구매하질않아서.. 
+### ⭐ 윈도우 보안 (실행안함) 창 뜰 수 있습니다! 이럴경우! 
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/3542d2ed-1c40-410b-a573-2d0f3e2475a3)
-## ❤️ [추가 정보] > 클릭 > [실행] > 클릭합니다. 
+### ❤️ [추가 정보] > 클릭 > [실행] > 클릭합니다. 
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/99e8c3d6-c26b-4a9d-bb84-bcabdc64cfec)
-## ⭐ 또는 관리자 권한으로 프로그램을 실행하면 됩니다!
-## ❤️ 해킹, 바이러스 같은거 없구 안심하고 쓰셔도 되요~ 
-## ⭐ 라이센스가 비싸구 기간에 제한 있어서 그래유🤣🤣
+### ⭐ 또는 관리자 권한으로 프로그램을 실행하면 됩니다!
+### ❤️ 해킹, 바이러스 같은거 없구 안심하고 쓰셔도 되요~ 
+### ⭐ 라이센스가 비싸구 기간에 제한 있어서 그래유🤣🤣
 ---
 
-# ↓ 깃허브 용량 제한으로 다운로드 링크를 따로 올립니다! ↓
-# **🔗 [다운로드 링크 (구글 드라이브)](https://drive.google.com/file/d/1PNFWe_Ijrs_mX8ByTat0lDC-i51TJZ-r/view?usp=drive_link)**
+## ↓ 깃허브 용량 제한으로 다운로드 링크를 따로 올립니다! ↓
+## **🔗 [다운로드 링크 (구글 드라이브)](https://drive.google.com/file/d/1PNFWe_Ijrs_mX8ByTat0lDC-i51TJZ-r/view?usp=drive_link)**
 
 ---
 
-# ⭐⭐사용법⭐⭐
+## ⭐⭐사용법⭐⭐
 ## 1. 프로그램 설치 후 로그인 정보를 입력합니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/b8f4c1f8-e529-42e6-a156-e29821b1ef6b)
 
