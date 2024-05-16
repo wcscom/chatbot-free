@@ -4,7 +4,11 @@
 #### OS : Windows7, 10, 11 (x64)
 #### description : for PandaTV bj && manager
 
+---
+## ↓ 깃허브 용량 제한으로 다운로드 링크를 따로 올립니다! ↓
+## **🔗 [다운로드 링크 (구글 드라이브)](https://drive.google.com/file/d/1Q1A3-zjF8CI130FCMTEnu_60Hh3VT3Sb/view?usp=drive_link)**
 
+---
 ### ❤️ 필독!@# - 라이센스를 구매하질않아서 보안 이슈가있습니다.
 ### ⭐ 윈도우 보안 파란색 창 뜰 수 있습니다! 이럴경우. 
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/3542d2ed-1c40-410b-a573-2d0f3e2475a3)
@@ -15,10 +19,6 @@
 ### ⭐ 라이센스 구매에 비용들고, 기간에 제한 있어서 그래유🤣🤣
 ---
 
-## ↓ 깃허브 용량 제한으로 다운로드 링크를 따로 올립니다! ↓
-## **🔗 [다운로드 링크 (구글 드라이브)](https://drive.google.com/file/d/1Q1A3-zjF8CI130FCMTEnu_60Hh3VT3Sb/view?usp=drive_link)**
-
----
 ## ⭐⭐업데이트 예정⭐⭐
 ### 1. 브압, 열혈, 회장 입장 자동 응답
 ### 2. 명령어 및 자동 응답 체크박스로 사용 설정
