@@ -1,10 +1,9 @@
 #  ⭐ 숙애의 채팅봇 ⭐
 
 ### beta version : 1.0.0
-### OS : Windows (64bit)
-### description : PandaTV를 위한 무료 AI 매크로 
-### need memory : 500mb ~ 1.5gb
-### size : 150mb
+### OS : Windows7, 10, 11 (64bit)
+### description : for PandaTV bj && manager
+
 
 ## ❤️ 필독 - 라이센스를 구매하질않아서.. 
 ## ⭐ 윈도우 보안 (실행안함) 창 뜰 수 있습니다! 이럴경우! 
