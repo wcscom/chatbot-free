@@ -56,33 +56,7 @@
 <img src="https://github.com/wcscom/chatbot-free/assets/168957756/a161562f-a8e6-4c17-8b49-5333df2de284" width="500">
 
 ### 9. 하트 내역입니다. 다운로드 클릭시 바탕화면에 메모장으로 저장됩니다.
-<img src="https://github.com/wcscom/chatbot-free/assets/168957756/e0eac2f6-aaad-4cbb-bccc-527d123c68c7" width="400">
-
-### 10. 채팅 내역입니다. 다운로드 클릭시 바탕화면에 메모장으로 저장됩니다.
-<img src="https://github.com/wcscom/chatbot-free/assets/168957756/a3e01c25-a633-45ce-8aba-cbf266afd914" width="400">
-
-### 11. 채팅봇 메뉴의 텍스트 입력란은 모두 크기 조절이 가능합니다.
-<img src="https://github.com/wcscom/chatbot-free/assets/168957756/66002c69-4c0b-4abd-9def-d7f3ef206fd7" width="400">
-
-
-
-
----
-## ⭐⭐삭제 방법⭐⭐
-### 윈도우 11
-<img src="https://github.com/wcscom/chatbot-free/assets/168957756/b9df4f3a-5539-49d5-8609-3fb84a521091" width="400"><br/>
-<img src="https://github.com/wcscom/chatbot-free/assets/168957756/617ca175-f1af-4548-b93e-b961470315e0" width="400">
-
-### 윈도우 10
-프로그램 추가/제거에서 삭제 가능
----
-
-
-### PS
-
-1. **플래스tv 버전도 존재하지만, 미완성으로 배포 아직입니다!**
-2. **완성까지 총 20일정도 걸렸습니다. 테스트 시간이 가장길었어요ㅠ**
-3. **도와준이 : BJ다냥이ღ, BJ채민❤️, BJ순수하양ღ, ღ지히ღ, 이나❤️, ❤️소영❤️, BJ나라❤️, 	아키✿, BJ✿ܓⓊⓅ해쥬ഒ, ✦쑤야✦**
+<img src="https://github.com/wcscom/chatbot-free/asset분 : BJ다냥이ღ, BJ채민❤️, BJ순수하양ღ, ღ지히ღ, 이나❤️, ❤️소영❤️, BJ나라❤️, 	아키✿, BJ✿ܓⓊⓅ해쥬ഒ, ✦쑤야✦**
 4. **PC가 아닌 모바일 앱으로도 제작 가능합니다. 의뢰 주실 괴큰손 옵빠는 연락주세유😍**
 5. **해킹할 일도없구! 바이러스없어여! 걱정ㄴ노**
 6. **라이센스 구입되지 않은 프로그램이기에 일부 os환경에서 관리자 권환으로 실행해야할 수 있습니다.**
