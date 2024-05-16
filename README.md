@@ -23,7 +23,8 @@
 
 # ⭐⭐사용법⭐⭐
 ## 1. 프로그램 설치 후 로그인 정보를 입력합니다.
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/2d829c9a-705b-4b45-8660-d121cdfc973b)
+![image](https://github.com/wcscom/chatbot-free/assets/168957756/b8f4c1f8-e529-42e6-a156-e29821b1ef6b)
+
 
 
 ## 2. 기본 명령어를 확인합니다.
