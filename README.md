@@ -6,7 +6,7 @@
 
 ---
 ## ↓ 깃허브 용량 제한으로 다운로드 링크를 따로 올립니다! ↓
-## **🔗 [다운로드 링크 (구글 드라이브)](https://drive.google.com/file/d/1Q1A3-zjF8CI130FCMTEnu_60Hh3VT3Sb/view?usp=drive_link)**
+## **🔗 [다운로드 링크 (구글 드라이브)](https://drive.google.com/file/d/1JGjMbexZDh4v94bR87YS1SR6kh5MuuPI/view?usp=sharing)**
 
 ---
 ### ❤️ 필독!@# - 라이센스를 구매하질않아서 보안 이슈가있습니다.
