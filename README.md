@@ -6,6 +6,7 @@
 ### need memory : 500mb ~ 1.5gb
 ### size : 150mb 
 
+![image](https://github.com/wcscom/chatbot-free/assets/168957756/3542d2ed-1c40-410b-a573-2d0f3e2475a3)
 
 ## ❤️ 라이센스를 구매하질않아서.. 
 ## ⭐ 윈도우 보안 (실행안함) 창 뜰 수 있습니다! 이럴경우! 
