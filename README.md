@@ -1,5 +1,6 @@
-#  팬더티비 ai 팬더 티비 매크로 숙애의 채팅봇 seo
+#  팬더티비 ai 채팅 도우미 무료 (SEO-> 팬더 티비 판다 자동 매크로 숙애의 채팅봇)
 
+#### name : 숙애의 채팅봇
 #### version : 1.0.0 beta
 #### OS : Windows7, 10, 11 (x64)
 #### description : for PandaTV bj && manager
