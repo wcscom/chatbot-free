@@ -1,8 +1,9 @@
 # 숙애의 채팅봇
 
 ### beta version : 1.0.0
+### OS : Windows (64bit)
+**description**: PandaTV를 위한 무료 AI 매크로 
 
-**description**: PandaTV를 위한 무료 AI 매크로
 
 🚨 **주의**: 예외 처리가 많이 부족하며 전체적으로 완성도가 높지 않습니다. 그러나 기본 기능은 갖추었습니다! 😊🤣🤣
 
