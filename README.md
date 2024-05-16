@@ -5,13 +5,12 @@
 **description**: PandaTV를 위한 무료 AI 매크로 
 
 
-**🚨 기본적인 기능은 있으나, 예외처리는 조금 부족합니다!~ 😊🤣🤣**
+**🚨 기본적인 기능은 있으나😊, 예외처리는 조금 부족합니다!~**
+**⭐ 해킹, 바이러스 같은거 없어요🤣🤣**
 
-# 깃허브 용량 제한으로....
-**다운로드 링크를 따로 남깁니다! ↓↓↓↓↓↓↓↓↓↓↓
-🔗 [다운로드 링크 (구글 드라이브)](https://drive.google.com/file/d/1PNFWe_Ijrs_mX8ByTat0lDC-i51TJZ-r/view?usp=drive_link)
-**
+# 깃허브 용량 제한으로 다운로드 링크를 따로 ↓↓↓↓↓↓↓↓↓↓↓
 
+**🔗 [다운로드 링크 (구글 드라이브)](https://drive.google.com/file/d/1PNFWe_Ijrs_mX8ByTat0lDC-i51TJZ-r/view?usp=drive_link)**
 
 
 ---
