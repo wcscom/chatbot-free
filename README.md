@@ -11,10 +11,10 @@
 ---
 ## ❤️⭐ 필독! - 라이센스를 구매하질않아서 보안 이슈가있습니다. ⭐❤️
 ### ⭐ 윈도우 보안 파란색 창 뜰 수 있습니다! 이럴경우.
-<img src="https://github.com/wcscom/chatbot-free/assets/168957756/3542d2ed-1c40-410b-a573-2d0f3e2475a3" width="300">
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/3542d2ed-1c40-410b-a573-2d0f3e2475a3" width="400">
 
 ### ❤️ [추가 정보] > 클릭 > [실행] > 클릭합니다.
-<img src="https://github.com/wcscom/chatbot-free/assets/168957756/99e8c3d6-c26b-4a9d-bb84-bcabdc64cfec" width="300">
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/99e8c3d6-c26b-4a9d-bb84-bcabdc64cfec" width="400">
 
 ### ⭐ 또는 관리자 권한으로 프로그램을 실행하면 됩니다!
 ### ❤️ 해킹, 바이러스 같은거 없구 안심하고 쓰셔도 되요~ 
@@ -70,8 +70,9 @@
 ---
 ## ⭐⭐삭제 방법⭐⭐
 ### 윈도우 11
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/b9df4f3a-5539-49d5-8609-3fb84a521091)
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/617ca175-f1af-4548-b93e-b961470315e0)
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/b9df4f3a-5539-49d5-8609-3fb84a521091" width="300">
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/617ca175-f1af-4548-b93e-b961470315e0" width="300">
+
 ### 윈도우 10
 프로그램 추가/제거에서 삭제 가능
 ---
