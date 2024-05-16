@@ -30,45 +30,46 @@
 ---
 ## ⭐⭐사용법⭐⭐
 ### 1. 프로그램 설치 후 로그인 정보를 입력합니다.
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/b8f4c1f8-e529-42e6-a156-e29821b1ef6b){: width="300"}
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/b8f4c1f8-e529-42e6-a156-e29821b1ef6b" width="300">
 
 ### 2. 기본 명령어를 확인합니다. ( 베타버전 !질문 사용 불가능)
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/cd557103-8415-45a4-9b93-aee3947718d9){: width="300"}
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/cd557103-8415-45a4-9b93-aee3947718d9" width="300">
 
 ### 3. 특정 시간 주기로 채팅을 보냅니다.
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/aec80000-c71c-4aa1-84df-322733f685db){: width="300"}
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/aec80000-c71c-4aa1-84df-322733f685db" width="300">
 
 ### 4. 기본적인 하트, 추천 응답 설정이 가능합니다.
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/f1043b4b-1e29-46f1-865c-909118bc094c){: width="300"}
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/f1043b4b-1e29-46f1-865c-909118bc094c" width="300">
 
 ### 5. 두산과 연속 콤보 또한 설정 가능합니다.
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/818b86fb-6510-4d4c-99b4-856becf01cc6){: width="300"}
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/818b86fb-6510-4d4c-99b4-856becf01cc6" width="300">
 
 ### 6. 명령어 추가 및 설정이 가능합니다.
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/50254527-bff0-4186-949c-36dbeadf2778){: width="300"}
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/50254527-bff0-4186-949c-36dbeadf2778" width="300">
 
 ### 7. 저장 버튼은 실시간으로 반응하지만, 특정 시간 주기 채팅은 불가능합니다. (타이머관련)
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/b4114cba-df10-49c6-8c32-2544fbf8d1e8){: width="300"}
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/b4114cba-df10-49c6-8c32-2544fbf8d1e8" width="300">
 
 ### 8. 신청곡에 대한 내역 저장입니다.
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/a161562f-a8e6-4c17-8b49-5333df2de284){: width="300"}
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/a161562f-a8e6-4c17-8b49-5333df2de284" width="300">
 
 ### 9. 하트 내역입니다. 다운로드 클릭시 바탕화면에 메모장으로 저장됩니다.
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/e0eac2f6-aaad-4cbb-bccc-527d123c68c7){: width="300"}
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/e0eac2f6-aaad-4cbb-bccc-527d123c68c7" width="300">
 
 ### 10. 채팅 내역입니다. 다운로드 클릭시 바탕화면에 메모장으로 저장됩니다.
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/a3e01c25-a633-45ce-8aba-cbf266afd914){: width="300"}
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/a3e01c25-a633-45ce-8aba-cbf266afd914" width="300">
 
 ### 11. 채팅봇 메뉴의 텍스트 입력란은 모두 크기 조절이 가능합니다.
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/66002c69-4c0b-4abd-9def-d7f3ef206fd7){: width="300"}
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/66002c69-4c0b-4abd-9def-d7f3ef206fd7" width="300">
+
 
 
 
 ---
 ## ⭐⭐삭제 방법⭐⭐
 ### 윈도우 11
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/b9df4f3a-5539-49d5-8609-3fb84a521091){: width="300"}
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/617ca175-f1af-4548-b93e-b961470315e0){: width="300"}
+![image](https://github.com/wcscom/chatbot-free/assets/168957756/b9df4f3a-5539-49d5-8609-3fb84a521091)
+![image](https://github.com/wcscom/chatbot-free/assets/168957756/617ca175-f1af-4548-b93e-b961470315e0)
 ### 윈도우 10
 프로그램 추가/제거에서 삭제 가능
 ---
