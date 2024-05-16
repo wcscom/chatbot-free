@@ -45,34 +45,7 @@
 ### 6. 명령어 추가 및 설정이 가능합니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/50254527-bff0-4186-949c-36dbeadf2778)
 
-### 7. 저장 버튼은 실시간으로 반응하지만, 특정 시간 주기 채팅은 불가능합니다. (타이머관련)
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/b4114cba-df10-49c6-8c32-2544fbf8d1e8)
-
-### 8. 신청곡에 대한 내역 저장입니다.
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/a161562f-a8e6-4c17-8b49-5333df2de284)
-
-### 9. 하트 내역입니다. 다운로드 클릭시 바탕화면에 메모장으로 저장됩니다.
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/e0eac2f6-aaad-4cbb-bccc-527d123c68c7)
-
-### 10. 채팅 내역입니다. 다운로드 클릭시 바탕화면에 메모장으로 저장됩니다.
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/a3e01c25-a633-45ce-8aba-cbf266afd914)
-
-### 11. 채팅봇 메뉴의 텍스트 입력란은 모두 크기 조절이 가능합니다.
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/66002c69-4c0b-4abd-9def-d7f3ef206fd7)
-
-
-
----
-
-
-
-
-
-
-
-### PS
-
-1. **플래스tv 버전도 존재하지만, 미완성으로 배포 아직입니다!**
+### 7. 저장 버튼은 실시간으로 반응하지만, 특정 시간 주기 채팅은 불가능합니다. (타이머로 배포 아직입니다!**
 2. **완성까지 총 20일정 걸렸습니다. 방송보면서 간간히 만든것이라 에러있을수 있어요!~**
 3. **테스트 시간이 가장 길었어요. 도와준 bj들에게 감사인사라도 해주시면 고맙겠습니다.**
 4. **PC가 아닌 모바일 앱으로도 제작 가능합니다. 의뢰 주실 괴큰손 옵빠는 연락주세유😍**
