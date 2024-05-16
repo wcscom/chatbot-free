@@ -1,4 +1,4 @@
-# ** 숙애의 채팅봇 **
+#  숙애의 채팅봇 **
 
 ### beta version : 1.0.0
 ### OS : Windows (64bit)
@@ -7,16 +7,16 @@
 ### size : 150mb 
 
 
-# ❤️ 라이센스를 구매하질않아서.. 
-# ⭐ 윈도우 보안 (실행안함) 창 뜰 수 있습니다! 이럴경우! 
-# ❤️ [해결 링크](https://bondingedu.com/notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=5783914&t=board)를 클릭해서, 해결합니다.
-# ⭐ 또는 [추가 정보] > 클릭 > [실행] > 클릭합니다. 
-# ⭐ 해킹, 바이러스 같은거 없구 안심하고 쓰셔도 됩니다! 
-# ❤️ 라이센스가 비싸구 기간에 제한 있어서 그래유🤣🤣
+## ❤️ 라이센스를 구매하질않아서.. 
+## ⭐ 윈도우 보안 (실행안함) 창 뜰 수 있습니다! 이럴경우! 
+## ❤️ [해결 링크](https://bondingedu.com/notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=5783914&t=board)를 클릭해서, 해결합니다.
+## ⭐ 또는 [추가 정보] > 클릭 > [실행] > 클릭합니다. 
+## ❤️ 해킹, 바이러스 같은거 없구 안심하고 쓰셔도 됩니다! 
+## ⭐ 라이센스가 비싸구 기간에 제한 있어서 그래유🤣🤣
 
 # 깃허브 용량 제한으로 다운로드 링크를 따로 ↓↓↓↓↓↓↓↓↓↓↓
 
-# **🔗 [다운로드 링크 (구글 드라이브)](https://drive.google.com/file/d/1PNFWe_Ijrs_mX8ByTat0lDC-i51TJZ-r/view?usp=drive_link)**
+## **🔗 [다운로드 링크 (구글 드라이브)](https://drive.google.com/file/d/1PNFWe_Ijrs_mX8ByTat0lDC-i51TJZ-r/view?usp=drive_link)**
 
 
 ---
