@@ -23,9 +23,6 @@
 # ⭐⭐사용법⭐⭐
 ## 1. 프로그램 설치 후 로그인 정보를 입력합니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/b8f4c1f8-e529-42e6-a156-e29821b1ef6b)
-<img src="https://github.com/wcscom/chatbot-free/assets/168957756/cd557103-8415-45a4-9b93-aee3947718d9" width="200">
-
-
 
 ## 2. 기본 명령어를 확인합니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/cd557103-8415-45a4-9b93-aee3947718d9)
@@ -44,7 +41,6 @@
 
 ## 7. 저장 버튼은 실시간으로 반응하지만, 특정 시간 주기 채팅은 불가능합니다. (타이머관련)
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/b4114cba-df10-49c6-8c32-2544fbf8d1e8)
-
 
 ## 8. 신청곡에 대한 내역 저장입니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/a161562f-a8e6-4c17-8b49-5333df2de284)
