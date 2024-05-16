@@ -5,11 +5,11 @@
 #### description : for PandaTV bj && manager
 
 ---
-## ↓ 깃허브 용량 제한으로 다운로드 링크를 따로 올립니다! ↓
-## **🔗 [다운로드 링크 (구글 드라이브)](https://drive.google.com/file/d/1JGjMbexZDh4v94bR87YS1SR6kh5MuuPI/view?usp=sharing)**
+### ↓ 깃허브 용량 제한으로 다운로드 링크를 따로 올립니다! ↓
+### **🔗 [다운로드 링크 (구글 드라이브)](https://drive.google.com/file/d/1JGjMbexZDh4v94bR87YS1SR6kh5MuuPI/view?usp=sharing)**
 
 ---
-### ❤️⭐ 필독! - 라이센스를 구매하질않아서 보안 이슈가있습니다. ⭐❤️
+## ❤️⭐ 필독! - 라이센스를 구매하질않아서 보안 이슈가있습니다. ⭐❤️
 ### ⭐ 윈도우 보안 파란색 창 뜰 수 있습니다! 이럴경우. 
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/3542d2ed-1c40-410b-a573-2d0f3e2475a3)
 ### ❤️ [추가 정보] > 클릭 > [실행] > 클릭합니다. 
