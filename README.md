@@ -1,7 +1,7 @@
 #  ⭐ 숙애의 채팅봇 ⭐
 
-### beta version : 1.0.0
-### OS : Windows7, 10, 11 (64bit)
+### version : 1.0.0 beta
+### OS : Windows7, 10, 11 (x64)
 ### description : for PandaTV bj && manager
 
 
