@@ -43,7 +43,8 @@
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/50254527-bff0-4186-949c-36dbeadf2778)
 
 ## 7. 저장 버튼은 실시간으로 반응하지만, 특정 시간 주기 채팅은 불가능합니다. (타이머관련)
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/d1c46702-232b-4856-b9cd-279181470b26)
+![image](https://github.com/wcscom/chatbot-free/assets/168957756/b4114cba-df10-49c6-8c32-2544fbf8d1e8)
+
 
 ## 8. 신청곡에 대한 내역 저장입니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/a161562f-a8e6-4c17-8b49-5333df2de284)
