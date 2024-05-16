@@ -70,8 +70,8 @@
 ---
 ## ⭐⭐삭제 방법⭐⭐
 ### 윈도우 11
-<img src="https://github.com/wcscom/chatbot-free/assets/168957756/b9df4f3a-5539-49d5-8609-3fb84a521091" width="300">
-<img src="https://github.com/wcscom/chatbot-free/assets/168957756/617ca175-f1af-4548-b93e-b961470315e0" width="300">
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/b9df4f3a-5539-49d5-8609-3fb84a521091" width="400"><br/>
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/617ca175-f1af-4548-b93e-b961470315e0" width="400">
 
 ### 윈도우 10
 프로그램 추가/제거에서 삭제 가능
