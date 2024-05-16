@@ -6,13 +6,15 @@
 ### need memory : 500mb ~ 1.5gb
 ### size : 150mb 
 
-![image](https://github.com/wcscom/chatbot-free/assets/168957756/3542d2ed-1c40-410b-a573-2d0f3e2475a3)
+
 
 ## ❤️ 라이센스를 구매하질않아서.. 
 ## ⭐ 윈도우 보안 (실행안함) 창 뜰 수 있습니다! 이럴경우! 
-## ❤️ [해결 링크](https://bondingedu.com/notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=5783914&t=board)를 클릭해서, 해결합니다.
-## ⭐ 또는 [추가 정보] > 클릭 > [실행] > 클릭합니다. 
-## ❤️ 해킹, 바이러스 같은거 없구 안심하고 쓰셔도 됩니다! 
+![image](https://github.com/wcscom/chatbot-free/assets/168957756/3542d2ed-1c40-410b-a573-2d0f3e2475a3)
+## ❤️ [추가 정보] > 클릭 > [실행] > 클릭합니다. 
+![image](https://github.com/wcscom/chatbot-free/assets/168957756/99e8c3d6-c26b-4a9d-bb84-bcabdc64cfec)
+## ⭐ 또는 관리자 권한으로 프로그램을 실행하면 됩니다!
+## ❤️ 해킹, 바이러스 같은거 없구 안심하고 쓰셔도 되요~ 
 ## ⭐ 라이센스가 비싸구 기간에 제한 있어서 그래유🤣🤣
 
 # ↓ 깃허브 용량 제한으로 다운로드 링크를 따로 올립니다! ↓
