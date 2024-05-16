@@ -52,6 +52,10 @@
 ## 10. 채팅 내역입니다. 다운로드 클릭시 바탕화면에 메모장으로 저장됩니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/a3e01c25-a633-45ce-8aba-cbf266afd914)
 
+## 11. 채팅봇 메뉴의 텍스트 입력란은 크기 조절이 가능합니다.
+![image](https://github.com/wcscom/chatbot-free/assets/168957756/66002c69-4c0b-4abd-9def-d7f3ef206fd7)
+
+
 
 ---
 
