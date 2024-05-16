@@ -27,7 +27,7 @@
 ### 1. 프로그램 설치 후 로그인 정보를 입력합니다.
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/b8f4c1f8-e529-42e6-a156-e29821b1ef6b)
 
-### 2. 기본 명령어를 확인합니다.
+### 2. 기본 명령어를 확인합니다. ( 베타버전 !질문 사용 불가능)
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/cd557103-8415-45a4-9b93-aee3947718d9)
 
 ### 3. 특정 시간 주기로 채팅을 보냅니다.
