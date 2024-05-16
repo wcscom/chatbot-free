@@ -6,7 +6,7 @@
 
 
 ### ❤️ 필독!@# - 라이센스를 구매하질않아서 보안 이슈가있습니다.
-### ⭐ 윈도우 보안 (실행안함) 창 뜰 수 있습니다! 이럴경우. 
+### ⭐ 윈도우 보안 파란색 창 뜰 수 있습니다! 이럴경우. 
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/3542d2ed-1c40-410b-a573-2d0f3e2475a3)
 ### ❤️ [추가 정보] > 클릭 > [실행] > 클릭합니다. 
 ![image](https://github.com/wcscom/chatbot-free/assets/168957756/99e8c3d6-c26b-4a9d-bb84-bcabdc64cfec)
