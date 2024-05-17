@@ -22,7 +22,8 @@
 ## ❤️⭐ 필독! - 라이센스를 구매하질않아서 보안 이슈가있습니다. ⭐❤️
 ### ⭐ 윈도우 보안 파란색 창 뜰 수 있습니다! 이럴경우.
 <img src="https://github.com/wcscom/chatbot-free/assets/168957756/db07c7f7-4e09-4753-b2c5-8825e470c98b" width="450">
-<img src="https://github.com/wcscom/chatbot-free/assets/168957756/3542d2ed-1c40-410b-a573-2d0f3e2475a3" width="450">
+<br/>
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/3542d2ed-1c40-410b-a573-2d0f3e2475a3" width="500">
 
 ### ❤️ [추가 정보] > 클릭 > [실행] > 클릭합니다.
 <img src="https://github.com/wcscom/chatbot-free/assets/168957756/99e8c3d6-c26b-4a9d-bb84-bcabdc64cfec" width="450">
