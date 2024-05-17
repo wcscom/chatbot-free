@@ -27,6 +27,8 @@
 <img src="https://github.com/wcscom/chatbot-free/assets/168957756/99e8c3d6-c26b-4a9d-bb84-bcabdc64cfec" width="450">
 
 ### ⭐ 또는 관리자 권한으로 프로그램을 실행하면 됩니다!
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/316356c8-5a1d-425c-adff-b4813b3224a0" width="450">
+
 ### ❤️ 해킹, 바이러스 같은거 없구 안심하고 쓰셔도 되요~ 
 ### ⭐ 라이센스 구매에 비용들고, 기간에 제한 있어서 그래유🤣🤣
 ### ❤️ 자동 응답 에러발생시 프로그램 종료 후 다시 실행하세요!
