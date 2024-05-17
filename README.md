@@ -26,7 +26,7 @@
 ### ❤️ [추가 정보] > 클릭 > [실행] > 클릭합니다.
 <img src="https://github.com/wcscom/chatbot-free/assets/168957756/99e8c3d6-c26b-4a9d-bb84-bcabdc64cfec" width="450">
 
-### ⭐ 또는 관리자 권한으로 프로그램을 실행하면 됩니다!
+### ⭐ 또는 관리자 권한으로 설치 파일을 실행해주세요.
 <img src="https://github.com/wcscom/chatbot-free/assets/168957756/316356c8-5a1d-425c-adff-b4813b3224a0" width="450">
 
 ### ❤️ 해킹, 바이러스 같은거 없구 안심하고 쓰셔도 되요~ 
