@@ -35,7 +35,7 @@
 <img src="https://github.com/wcscom/chatbot-free/assets/168957756/7d9a73c6-f5a1-434e-a531-37b8682f2846" width="450">
 
 ### ⭐ 보안알림 뜨는 이유는 라이센스가 없으면 발생하고, <br/>      라이센스 구매에는 비용과 기간에 제한 있어서 그래요😊
-<img src="https://github.com/wcscom/chatbot-free/assets/168957756/40a35197-08de-4f0e-80f5-0ede1815c222" width="450">
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/40a35197-08de-4f0e-80f5-0ede1815c222" width="550">
 
 
 ### ❤️ 자동 응답 에러발생시 프로그램 종료 후 다시 실행하세요!
