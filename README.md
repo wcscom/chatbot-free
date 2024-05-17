@@ -6,6 +6,7 @@
 #### description : for PandaTV bj && manager
 ---
 ## **❤️도와주신분들💋 <br/>BJ다냥이ღ - BJ채민❤️ - BJ순수하양ღ - ✦쑤야✦ - ღ지히ღ - 이나❤️ -<br/>❤️소영❤️ - BJ나라❤️ - 아키✿ - BJ✿ܓⓊⓅ해쥬ഒ**
+#### ⭐처음 세팅하시면, 어려울 수 있어요! 차분하게 읽어보세요!
 ---
 ## ⭐⭐요청 업데이트 예정⭐⭐
 ### 1. 브압, 열혈, 회장 입장 자동 응답
@@ -17,8 +18,8 @@
 ### 4. 고정 응답 20분 -> 1시간 변경
 
 ---
-### ↓ 깃허브 용량 제한으로 다운로드 링크를 따로 올려요! ↓
-### **🔗 [다운로드 링크 (구글 드라이브)](https://drive.google.com/file/d/1JGjMbexZDh4v94bR87YS1SR6kh5MuuPI/view?usp=sharing)**
+### 깃허브 용량 제한으로 다운로드 링크를 따로 올려요! <br/>↓↓↓↓↓↓↓↓
+### <a href="https://drive.google.com/file/d/1JGjMbexZDh4v94bR87YS1SR6kh5MuuPI/view?usp=sharing" target="_blank">🔗 [다운로드 링크 (구글 드라이브)]</a>
 
 ---
 ## ❤️⭐ 필독! - 라이센스를 구매하질않아서 보안 이슈가있습니다. ⭐❤️
