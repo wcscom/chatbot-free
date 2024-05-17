@@ -21,6 +21,7 @@
 ---
 ## ❤️⭐ 필독! - 라이센스를 구매하질않아서 보안 이슈가있습니다. ⭐❤️
 ### ⭐ 윈도우 보안 파란색 창 뜰 수 있습니다! 이럴경우.
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/db07c7f7-4e09-4753-b2c5-8825e470c98b" width="450">
 <img src="https://github.com/wcscom/chatbot-free/assets/168957756/3542d2ed-1c40-410b-a573-2d0f3e2475a3" width="450">
 
 ### ❤️ [추가 정보] > 클릭 > [실행] > 클릭합니다.
@@ -30,7 +31,12 @@
 <img src="https://github.com/wcscom/chatbot-free/assets/168957756/316356c8-5a1d-425c-adff-b4813b3224a0" width="450">
 
 ### ❤️ 해킹, 바이러스 같은거 없구 안심하고 쓰셔도 되요~ 
-### ⭐ 라이센스 구매에 비용들고, 기간에 제한 있어서 그래유🤣🤣
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/7d9a73c6-f5a1-434e-a531-37b8682f2846" width="450">
+
+### ⭐ 보안알림 뜨는 이유는 라이센스가 없으면 발생하고, <br/>      라이센스 구매에는 비용과 기간에 제한 있어서 그래요😊
+<img src="https://github.com/wcscom/chatbot-free/assets/168957756/40a35197-08de-4f0e-80f5-0ede1815c222" width="450">
+
+
 ### ❤️ 자동 응답 에러발생시 프로그램 종료 후 다시 실행하세요!
 ---
 
