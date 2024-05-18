@@ -10,7 +10,7 @@
 #### ⭐처음 세팅하시면, 어려울 수 있어요! 차분하게 읽어보시구~ 영문 번역을 해제해주세요!
 ---
 ## ⭐요청 업데이트 예정
-### 1. 종료시 자동 저장
+
 
 ---
 ## ⭐요청 업데이트 완료 -> 1.0.1 beta
@@ -43,8 +43,9 @@
 ---
 
 ### 깃허브 용량 제한으로 다운로드 링크를 따로 올려요!<br/>↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-### <a href="https://drive.google.com/file/d/18Ja41DYWl1HpkYTh1wgpNTrEotdq7-OD/view?usp=sharing" target="_blank">🔗 [다운로드 링크 (구글 드라이브)]</a>
+### <a href="https://drive.google.com/file/d/1Joaa_yakduvfmNL0qN40nPH2igHjPJxD/view?usp=drive_link" target="_blank">🔗 [다운로드 링크 (구글 드라이브)]</a>
 ---
+
 
 ## ⭐⭐사용법⭐⭐
 ### 1. 프로그램 설치 후 로그인 정보를 입력합니다.
