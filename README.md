@@ -52,7 +52,7 @@
 ---
 
 ### 깃허브 용량 제한으로 다운로드 링크를 따로 올려요!<br/>↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-### <a href="https://drive.google.com/file/d/1dPVFEd23skt3gOGEtGdWGj4xNoh-z_u6/view?usp=sharing" target="_blank">🔗 [다운로드 링크 (구글 드라이브)]</a>
+### <a href="https://drive.google.com/file/d/1_NgYM6nf0fFLeVepGYe_Hw7YIgvbdOna/view?usp=sharing" target="_blank">🔗 [다운로드 링크 (구글 드라이브)]</a>
 ---
 
 
