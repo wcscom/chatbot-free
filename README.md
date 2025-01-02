@@ -1,5 +1,5 @@
 #  팬더티비 ai 채팅 도우미 무료 버전 <br/>(SEO-> 팬더 티비 판다 자동 매크로 숙애의 채팅봇)
-## **<a href="https://open.kakao.com/o/sRGMJUHg" target="_blank">카톡 오픈 채팅 링크</a>**
+## **<a href="https://open.kakao.com/o/sRGMJUHg" target="_blank">카카오톡 오픈 채팅 링크</a>**
 ---
 #### name : 숙애의 채팅봇
 #### version : 1.0.5 beta
